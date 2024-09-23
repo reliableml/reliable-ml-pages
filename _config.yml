@@ -1,0 +1,14 @@
+theme: minima
+title: ReliableML
+
+show_excerpts: true
+timezone: Europe/Moscow
+excerpt_separator: <!--more-->
+
+minima:
+  date_format: "%Y-%m-%d"
+
+
+exclude:
+    - .gitignore
+    - README.md
